@@ -189,20 +189,6 @@ Health check — returns `{ "status": "VaakSiddhi backend running" }`.
 
 ---
 
-## Roadmap
-
-This POC is Phase 1 of the VaakSiddhi platform. The full product spec covers:
-
-| Phase | Timeline | What gets built |
-|---|---|---|
-| **POC (this repo)** | 2 weeks | Phoneme verification + Rainbow Painter game |
-| **MVP v1** | Months 1–4 | 5 biofeedback games + Hindi/English vocab builder + parent dashboard |
-| **v1.5** | Months 5–8 | Face & mouth biofeedback + stuttering module + 3 more Indian languages |
-| **v2.0** | Months 9–14 | Seizure medication speech mode + neurologist portal + all 9 languages |
-| **v3.0** | Month 15+ | AI personalisation engine + telehealth + clinical validation |
-
----
-
 ## Why VaakSiddhi
 
 India has **26 million+ children with disability** and a shortage of **80,000+ speech therapists**. A parent in a small town with no SLP within 100km has no tools. VaakSiddhi is built specifically for this gap — Indian languages, Indian phoneme sets, works on a ₹8,000 Android tablet, offline-first.
